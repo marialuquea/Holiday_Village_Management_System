@@ -1,0 +1,17 @@
+﻿<Window x:Class="Presentation.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Presentation"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Label Content="The Napier Holiday Village" HorizontalAlignment="Left" Margin="111,39,0,0" VerticalAlignment="Top" Height="44" Width="285" FontSize="22"/>
+        <Button x:Name="btnNewc" Content="New customer" HorizontalAlignment="Left" Margin="176,116,0,0" VerticalAlignment="Top" Width="155" Height="69" Click="btnNewc_Click"/>
+        <Button x:Name="btnExistingc" Content="Existing customer" HorizontalAlignment="Left" Margin="176,207,0,0" VerticalAlignment="Top" Width="155" Height="72" Click="btnExistingc_Click"/>
+        <Image HorizontalAlignment="Left" Height="100" Margin="583,-14,-164.333,0" VerticalAlignment="Top" Width="100"/>
+        <Image Margin="336,269,-0.333,-0.333" Source="uni logo.jpg" Stretch="Fill"/>
+
+    </Grid>
+</Window>
