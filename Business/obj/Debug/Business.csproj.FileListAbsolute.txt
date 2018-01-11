@@ -1,0 +1,6 @@
+C:\Users\Maria\Documents\2nd year\Object Oriented Software Development\cw2(2)\Business\Business\bin\Debug\Business.dll
+C:\Users\Maria\Documents\2nd year\Object Oriented Software Development\cw2(2)\Business\Business\bin\Debug\Business.pdb
+C:\Users\Maria\Documents\2nd year\Object Oriented Software Development\cw2(2)\Business\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+C:\Users\Maria\Documents\2nd year\Object Oriented Software Development\cw2(2)\Business\Business\obj\Debug\Business.dll
+C:\Users\Maria\Documents\2nd year\Object Oriented Software Development\cw2(2)\Business\Business\obj\Debug\Business.pdb
+C:\Users\Maria\Documents\2nd year\Object Oriented Software Development\cw2(2)\Business\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
