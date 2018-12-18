@@ -1,10 +1,9 @@
-# Holiday_Village_Management_System
+# Holiday Village Management System
 
-Edinburgh Napier University
+## Object Oriented Development Software 2017
 
-Maria Luque Anguita
+### Edinburgh Napier University
 
-Object Oriented Development Software 2017
+This program manages 10 chalets in a Village, its customers, guests and details of the stay (car hire, breakfast, dinner...). 
 
-Description: This program manages 10 chalets in a Village, its customers, guests and details of the stay (car hire, breakfast, dinner...). 
-
+![Screenshot](docs/screenshot.png)
