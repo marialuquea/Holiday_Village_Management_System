@@ -27,3 +27,33 @@ C:\Users\Maria\Documents\2nd year\Object Oriented Software Development\cw2(2)\Bu
 C:\Users\Maria\Documents\2nd year\Object Oriented Software Development\cw2(2)\Business\Presentation\obj\Debug\Invoice.baml
 C:\Users\Maria\Documents\2nd year\Object Oriented Software Development\cw2(2)\Business\Presentation\obj\Debug\NewCustomer.g.cs
 C:\Users\Maria\Documents\2nd year\Object Oriented Software Development\cw2(2)\Business\Presentation\obj\Debug\NewCustomer.baml
+C:\Users\Maria\Desktop\Holiday_Village_Management_System\Presentation\bin\Debug\Presentation.exe.config
+C:\Users\Maria\Desktop\Holiday_Village_Management_System\Presentation\bin\Debug\Presentation.exe
+C:\Users\Maria\Desktop\Holiday_Village_Management_System\Presentation\bin\Debug\Presentation.pdb
+C:\Users\Maria\Desktop\Holiday_Village_Management_System\Presentation\bin\Debug\Business.dll
+C:\Users\Maria\Desktop\Holiday_Village_Management_System\Presentation\bin\Debug\Data.dll
+C:\Users\Maria\Desktop\Holiday_Village_Management_System\Presentation\bin\Debug\Business.pdb
+C:\Users\Maria\Desktop\Holiday_Village_Management_System\Presentation\bin\Debug\Data.pdb
+C:\Users\Maria\Desktop\Holiday_Village_Management_System\Presentation\obj\Debug\Presentation.csprojAssemblyReference.cache
+C:\Users\Maria\Desktop\Holiday_Village_Management_System\Presentation\obj\Debug\BookingForm.g.cs
+C:\Users\Maria\Desktop\Holiday_Village_Management_System\Presentation\obj\Debug\CustomerForm.g.cs
+C:\Users\Maria\Desktop\Holiday_Village_Management_System\Presentation\obj\Debug\Invoice.g.cs
+C:\Users\Maria\Desktop\Holiday_Village_Management_System\Presentation\obj\Debug\MainWindow.g.cs
+C:\Users\Maria\Desktop\Holiday_Village_Management_System\Presentation\obj\Debug\NewBooking.g.cs
+C:\Users\Maria\Desktop\Holiday_Village_Management_System\Presentation\obj\Debug\NewCustomer.g.cs
+C:\Users\Maria\Desktop\Holiday_Village_Management_System\Presentation\obj\Debug\App.g.cs
+C:\Users\Maria\Desktop\Holiday_Village_Management_System\Presentation\obj\Debug\Presentation_MarkupCompile.cache
+C:\Users\Maria\Desktop\Holiday_Village_Management_System\Presentation\obj\Debug\Presentation_MarkupCompile.lref
+C:\Users\Maria\Desktop\Holiday_Village_Management_System\Presentation\obj\Debug\BookingForm.baml
+C:\Users\Maria\Desktop\Holiday_Village_Management_System\Presentation\obj\Debug\CustomerForm.baml
+C:\Users\Maria\Desktop\Holiday_Village_Management_System\Presentation\obj\Debug\Invoice.baml
+C:\Users\Maria\Desktop\Holiday_Village_Management_System\Presentation\obj\Debug\MainWindow.baml
+C:\Users\Maria\Desktop\Holiday_Village_Management_System\Presentation\obj\Debug\NewBooking.baml
+C:\Users\Maria\Desktop\Holiday_Village_Management_System\Presentation\obj\Debug\NewCustomer.baml
+C:\Users\Maria\Desktop\Holiday_Village_Management_System\Presentation\obj\Debug\Presentation.g.resources
+C:\Users\Maria\Desktop\Holiday_Village_Management_System\Presentation\obj\Debug\Presentation.Properties.Resources.resources
+C:\Users\Maria\Desktop\Holiday_Village_Management_System\Presentation\obj\Debug\Presentation.csproj.GenerateResource.cache
+C:\Users\Maria\Desktop\Holiday_Village_Management_System\Presentation\obj\Debug\Presentation.csproj.CoreCompileInputs.cache
+C:\Users\Maria\Desktop\Holiday_Village_Management_System\Presentation\obj\Debug\Presentation.csproj.CopyComplete
+C:\Users\Maria\Desktop\Holiday_Village_Management_System\Presentation\obj\Debug\Presentation.exe
+C:\Users\Maria\Desktop\Holiday_Village_Management_System\Presentation\obj\Debug\Presentation.pdb

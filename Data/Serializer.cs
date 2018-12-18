@@ -24,7 +24,7 @@ namespace Data
             XmlSerializer SerializerObj = new XmlSerializer(typeof(List<Booking>));
 
             // Create a new file stream to write the serialized object to a file
-            TextWriter WriteFileStream = new StreamWriter(@"C:\Users\Maria\Documents\2nd year\Object Oriented Software Development\cw2(2)\bookings.xml");
+            TextWriter WriteFileStream = new StreamWriter(@"../../../Docs/bookings.xml");
 
             //write object into file
             SerializerObj.Serialize(WriteFileStream, dataLayerSingleton.allBookings);
@@ -39,7 +39,7 @@ namespace Data
             XmlSerializer SerializerObj = new XmlSerializer(typeof(List<Customer>));
 
             // Create a new file stream to write the serialized object to a file
-            TextWriter WriteFileStream = new StreamWriter(@"C:\Users\Maria\Documents\2nd year\Object Oriented Software Development\cw2(2)\customerS.xml");
+            TextWriter WriteFileStream = new StreamWriter(@"../../../Docs/customerS.xml");
                 
             //write object into file
             SerializerObj.Serialize(WriteFileStream, dataLayerSingleton.allCustomers);
@@ -58,7 +58,7 @@ namespace Data
             XmlSerializer SerializerObj = new XmlSerializer(typeof(List<Booking>));
 
             // Create a new file stream for reading the XML file
-            FileStream ReadFileStream = new FileStream(@"C:\Users\Maria\Documents\2nd year\Object Oriented Software Development\cw2(2)\bookings.xml", FileMode.Open, FileAccess.Read, FileShare.Read);
+            FileStream ReadFileStream = new FileStream(@"../../../Docs/bookings.xml", FileMode.Open, FileAccess.Read, FileShare.Read);
 
             // Load the object saved above by using the Deserialize function
             List<Booking> loadedObj = (List<Booking>)SerializerObj.Deserialize(ReadFileStream);
@@ -77,7 +77,7 @@ namespace Data
             XmlSerializer SerializerObj = new XmlSerializer(typeof(List<Customer>));
 
             // Create a new file stream for reading the XML file
-            FileStream ReadFileStream = new FileStream(@"C:\Users\Maria\Documents\2nd year\Object Oriented Software Development\cw2(2)\customerS.xml", FileMode.Open, FileAccess.Read, FileShare.Read);
+            FileStream ReadFileStream = new FileStream(@"../../../Docs/customerS.xml", FileMode.Open, FileAccess.Read, FileShare.Read);
 
             // Load the object saved above by using the Deserialize function
             List<Customer> loadedObj = (List<Customer>)SerializerObj.Deserialize(ReadFileStream);

@@ -6,3 +6,12 @@ C:\Users\Maria\Documents\2nd year\Object Oriented Software Development\cw2(2)\Bu
 C:\Users\Maria\Documents\2nd year\Object Oriented Software Development\cw2(2)\Business\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
 C:\Users\Maria\Documents\2nd year\Object Oriented Software Development\cw2(2)\Business\Data\obj\Debug\Data.dll
 C:\Users\Maria\Documents\2nd year\Object Oriented Software Development\cw2(2)\Business\Data\obj\Debug\Data.pdb
+C:\Users\Maria\Desktop\Holiday_Village_Management_System\Data\bin\Debug\Data.dll
+C:\Users\Maria\Desktop\Holiday_Village_Management_System\Data\bin\Debug\Data.pdb
+C:\Users\Maria\Desktop\Holiday_Village_Management_System\Data\bin\Debug\Business.dll
+C:\Users\Maria\Desktop\Holiday_Village_Management_System\Data\bin\Debug\Business.pdb
+C:\Users\Maria\Desktop\Holiday_Village_Management_System\Data\obj\Debug\Data.csprojAssemblyReference.cache
+C:\Users\Maria\Desktop\Holiday_Village_Management_System\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\Maria\Desktop\Holiday_Village_Management_System\Data\obj\Debug\Data.csproj.CopyComplete
+C:\Users\Maria\Desktop\Holiday_Village_Management_System\Data\obj\Debug\Data.dll
+C:\Users\Maria\Desktop\Holiday_Village_Management_System\Data\obj\Debug\Data.pdb
